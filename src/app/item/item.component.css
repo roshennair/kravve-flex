@@ -1,0 +1,17 @@
+:host {
+	width: 100%;
+	height: 100%;
+	border: 1px solid black;
+}
+
+:host:first-child {
+	background-color: red;
+}
+
+:host:nth-child(2) {
+	background-color: lime;
+}
+
+:host:last-child {
+	background-color: cornflowerblue;
+}

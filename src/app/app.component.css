@@ -1,0 +1,11 @@
+:host {
+	height: 100%;
+}
+
+.parent-container {
+	padding: 20px;
+	height: 100%;
+	width: 100%;
+	max-width: 700px;
+	margin: 0 auto;
+}
